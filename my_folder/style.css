@@ -1,0 +1,87 @@
+h1, h2 {
+text-align: center;
+	margin: 30px auto;
+	color: white;
+	font-size: 35;
+
+}
+
+h3 {
+
+font-size: 20;
+}
+
+body {
+	
+background-image: url(Images/yus.jpg);
+  background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
+body {
+	font-family: 'Rubik', sans-serif;
+
+}
+
+.Blockchain, .Micro, .Digital {
+ 
+  width: 20%;
+  border-radius: 8px;
+  text-align: top, center;
+  padding: 40px;
+  margin: 30px auto;
+} 
+
+
+.Blockchain ,.Micro ,.Digital:hover {
+
+	background-color: white;
+}
+
+
+.Blockchain {
+	 background-image: url(Images/plo.png);
+  color: white;
+
+}
+
+.Digital {
+	background-image: url(Images/car.png);
+	 color: white;
+	 background-position: top, center;
+}
+
+.Micro {
+	background-image: url(Images/map.png);
+	  color: #0D361E;
+}
+
+
+.container {
+	background: lightgrey;
+	display: flex;
+	margin: 10px;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+width: 100%;
+height: 10%;
+
+}
+
+
+.button:hover {
+zoom: 180%;
+  transition: 0.45s;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.logoflex {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
